@@ -1,0 +1,9 @@
+# 2021-01-28
+
+Today, I copy-pasted the organization for the stjs volume 1. Which consisted of 20 nodes (or chapters). In a sense, I'm following the same process Greg Wilson wrote out in https://third-bit.com/2021/01/25/book-process/
+
+Right now, instead of making my own concept map, I'm simply following Greg's map for stjs. I like stpy to be the Python equivalent of stjs, so nothing wrong to follow the same concept map for consistency's sake.
+
+I also created a new folder 01-systems-programming and added an index.md only writing the headings I expect to have.
+
+One point of departure for me is that I will indicate a chapter number in the foldername as well as adding it for the table of contents in the README.md
